@@ -1,6 +1,6 @@
 # Odemodule
 
-Odemodule is a Fortran 2003 module for solving ODE's. It uses forth-order Runge-Kutta with Cash-Karp implementation as the adaptive step size.
+Odemodule is a Fortran 2003 module for solving ODE's. It utilizes the fourth-order Runge-Kutta with Cash-Karp implementation as the adaptive step size.
 
 The module uses whole array operations and linked-lists for efficient storage of the intermediate results. It needs a Fortran 2003 compliant compiler such as `gfortran`.
 
