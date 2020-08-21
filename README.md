@@ -73,7 +73,7 @@ END PROGRAM testode
 ```
 ## The double pendulum 
 
-[The double pendulum](https://www.astro.umd.edu/~adhabal/V1/Reports/Order_and_Chaos.pdf) will have 4 degrees of freedom. Based on the initial conditions, this system can be completely chaotic and impossible to predict.
+[The double pendulum](https://www.astro.umd.edu/~adhabal/V1/Reports/Order_and_Chaos.pdf) will have 2 degrees of freedom and 4 elements as the derivatives. Based on the initial conditions, this system can be completely chaotic and impossible to predict.
 
 The derivation subroutine would be:
 ```fortran
